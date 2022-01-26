@@ -1,3 +1,12 @@
-- Hi, I’m Hao (Remzi) Yang, I am interested in HPC, functional programming and compiler.
+- Hi, this is Hao Yang (my prefer name is Remzi), a young programmer. 
+- My interests include:
+  - parallel programming
+  - computer architecture
+  - compiler
+  - functional programming
+- My favourite programming languages are:
+  - SML and Ocaml
+  - Rust and C
+  - Mathematic language
 - Welcome to contact me via Linkedin <https://www.linkedin.com/in/hao-yang-7335b0169/>.
 
