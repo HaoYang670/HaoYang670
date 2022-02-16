@@ -5,7 +5,7 @@
   - compiler
   - functional programming
 - My favourite programming languages are:
-  - SML and Ocaml
+  - SML and LISP
   - Rust and C
   - Mathematic language
 - Welcome to contact me via Linkedin <https://www.linkedin.com/in/hao-yang-7335b0169/>.
