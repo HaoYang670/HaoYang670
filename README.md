@@ -8,5 +8,5 @@
   - SML and LISP
   - Rust and C
   - Mathematic language
-- Welcome to contact me via Linkedin <https://www.linkedin.com/in/hao-yang-7335b0169/>.
 
+[![HaoYang670's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoYang670)](https://github.com/HaoYang670/github-readme-stats)
