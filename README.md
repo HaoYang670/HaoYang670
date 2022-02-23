@@ -8,5 +8,5 @@
   - SML and LISP
   - Rust and C
   - Mathematic language
-  - 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoYang670)](https://github.com/anuraghazra/github-readme-stats)
