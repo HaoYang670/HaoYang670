@@ -1,4 +1,4 @@
-- Hi, this is Hao Yang (my prefer name is Remzi), a young programmer. 
+- Hi, I am Remzi Yang, a programmer. 
 - My interests include:
   - parallel programming
   - computer architecture
