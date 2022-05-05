@@ -5,7 +5,7 @@
   - compiler
   - functional programming
 - My favourite programming languages are:
-  - SML and LISP
+  - ML and LISP
   - Rust and C
   - Mathematic language
 
