@@ -5,8 +5,8 @@
   - compiler
   - functional programming
 - My favourite programming languages are:
-  - ML and LISP
-  - Rust and C
+  - Rust
+  - Coq
   - Mathematic language
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoYang670)](https://github.com/anuraghazra/github-readme-stats)
