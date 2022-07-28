@@ -1,4 +1,4 @@
-- Hi, I am Remzi Yang. 
+- Hi, I am Remzi. 
 - My interests include:
   - parallel programming
   - computer architecture
